@@ -1,0 +1,47 @@
+1
+00:00:00,000 --> 00:00:05,200
+Fans are market manipulating ticket master choose any large tour watch the best section
+
+2
+00:00:05,200 --> 00:00:11,040
+Ticketmaster makes an additional 650 ms per year by letting their rich broker friends take these tickets before you
+
+3
+00:00:11,040 --> 00:00:14,880
+Can we build this ourselves sign up for one to three new email accounts?
+
+4
+00:00:14,880 --> 00:00:18,320
+Find a concert that you want to go to and give your AI agent this prompt
+
+5
+00:00:18,320 --> 00:00:24,640
+It will scour the internet and sign up for every possible fan club or newsletter or something for your artist that it can find now
+
+6
+00:00:24,640 --> 00:00:27,840
+Create a workflow like this whenever one of those email accounts gets an email
+
+7
+00:00:27,920 --> 00:00:33,760
+It sends it to your AI agent to see if it includes any presale codes or information of when the presale will happen
+
+8
+00:00:33,760 --> 00:00:40,000
+And if so save it to some sort of database now give this next prompt your agent will take that presale code and create a
+
+9
+00:00:40,000 --> 00:00:45,440
+puppeteer script purchase the seats as soon as they go on presale using one of these payment methods
+
+10
+00:00:45,440 --> 00:00:49,440
+Technically super illegal by the way, but that hasn't stopped the brokers from using over
+
+11
+00:00:49,840 --> 00:00:56,080
+6,000 fake accounts to do exactly that don't get screwed by these brokers screw them back with their own method and follow your
+
+12
+00:00:56,080 --> 00:00:59,520
+Boy while you're at it. I will teach you how to build all of these things for free

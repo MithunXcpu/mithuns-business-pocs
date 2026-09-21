@@ -1,0 +1,51 @@
+1
+00:00:00,000 --> 00:00:07,040
+Jimbrows are downloading Ashton Hall. Look up what is coaching program actually include motivational support from Ashton Hall
+
+2
+00:00:07,040 --> 00:00:12,800
+That's about it. $8,000 please get this telegram app and a database to store your health info now
+
+3
+00:00:12,800 --> 00:00:18,460
+Give this guard Gancho and prompt to your AI agent of choice and it will create a fucking shitload of tables
+
+4
+00:00:18,460 --> 00:00:23,040
+Dude create a health chat like this in telegram and let this prompt absolutely rip
+
+5
+00:00:23,040 --> 00:00:26,700
+We wanted to create a workflow that when you text or send voice messages to telegram
+
+6
+00:00:26,700 --> 00:00:30,340
+Oh, I ate some pandori chicken dude. I had a very short legs workout
+
+7
+00:00:30,340 --> 00:00:33,260
+It will send a confirmation and then save it to this messages table
+
+8
+00:00:33,260 --> 00:00:37,520
+Now we want to run this next prompt which will create a workflow that will look at all of these pending messages
+
+9
+00:00:37,520 --> 00:00:42,460
+Figure out what you were trying to say whether it was like food or workouts and then write it down in the correct table
+
+10
+00:00:42,460 --> 00:00:45,960
+Now you can create things like a nutrition coach or even a training coach
+
+11
+00:00:45,960 --> 00:00:48,860
+Shuttle text you being like, yo, you got to hit the gym dude
+
+12
+00:00:48,860 --> 00:00:54,140
+This is actually my system by the way, you don't need to pay 8 grand for Ashton Hall to send you motivational quotes
+
+13
+00:00:54,000 --> 00:00:58.440
+Follow your boy instead. I'll show you how to build cool stuff like this for free
