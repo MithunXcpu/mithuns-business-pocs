@@ -1,0 +1,30 @@
+# Environment variables and API keys
+.env
+*.env
+api_keys.*
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+*.log
+
+# Secrets
+secrets/
+*.key
+*.pem
