@@ -1,6 +1,6 @@
 # @angusthenontechnical — batch-150
 
-Updated: 2026-09-21 00:52:24 ET
+Updated: 2026-09-21 00:52:19 ET
 
 Source: https://www.tiktok.com/@angusthenontechnical
 
@@ -43,7 +43,7 @@ Extractor: local `tools/tiktok/tiktok-extractor` (yt-dlp + faster-whisper base).
 | 33 | `7676044340963167501` | Aaaand post  #ai #buildwithai #vibecoding  | [link](https://www.tiktok.com/@angusthenontechnical/video/7676044340963167501) | ok |
 | 34 | `7676038354575641869` | Pro tip: you can have the AI be slightly conservative or liberal with.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7676038354575641869) | ok |
 | 35 | `7675313452906335502` |  | [link](https://www.tiktok.com/@angusthenontechnical/video/7675313452906335502) | ok |
-| 36 | `7674631260500806925` | Personalization kinda doesn’t matter anymore  #ai #buildwithai #vibec.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7674631260500806925) | ok |
+| 36 | `7674631260500806925` | Personalization kinda doesn’t matter anymore  #ai #buildwithai #vibec.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7674631260500806925) | queued |
 | 37 | `7674619619209940237` | The reason you don’t get any replies is because your emails start wit.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7674619619209940237) | queued |
 | 38 | `7673900120869457166` | An experiment absolutely worth running  #ai #buildwithai #vibecoding  | [link](https://www.tiktok.com/@angusthenontechnical/video/7673900120869457166) | queued |
 | 39 | `7673888590895533326` | Can’t believe I didn’t hear about this Clockwise story until like now.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7673888590895533326) | queued |
@@ -57,7 +57,7 @@ Extractor: local `tools/tiktok/tiktok-extractor` (yt-dlp + faster-whisper base).
 | 47 | `7671188624523709710` | None of these courses teach you anything technical btw - if you want .… | [link](https://www.tiktok.com/@angusthenontechnical/video/7671188624523709710) | queued |
 | 48 | `7670596798842506509` | Love a good market manipulation  #ai #vibecoding #buildwithai #ticket.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7670596798842506509) | queued |
 | 49 | `7670594813091122445` | Sure to love getting taken advantage of  #ai #buildwithai #vibecoding  | [link](https://www.tiktok.com/@angusthenontechnical/video/7670594813091122445) | queued |
-| 50 | `7670593335844785421` | Classic legal zoom moment  #ai #vibecoding #buildwithai  | [link](https://www.tiktok.com/@angusthenontechnical/video/7670593335844785421) | queued |
+| 50 | `7670593335844785421` | Classic legal zoom moment #ai #vibecoding #buildwithai | [link](https://www.tiktok.com/@angusthenontechnical/video/7670593335844785421) | queued |
 | 51 | `7670202861799673102` | After trying all of these ai assistant task manager things, I can con.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7670202861799673102) | queued |
 | 52 | `7670197923065498893` | You can do this with Fiverr too  #ai #buildwithai #vibecoding  | [link](https://www.tiktok.com/@angusthenontechnical/video/7670197923065498893) | queued |
 | 53 | `7670183194104319245` | Hot take of the day  #ai #humanizeai #aicontent #buildwithai  | [link](https://www.tiktok.com/@angusthenontechnical/video/7670183194104319245) | queued |
@@ -65,7 +65,7 @@ Extractor: local `tools/tiktok/tiktok-extractor` (yt-dlp + faster-whisper base).
 | 55 | `7669851862627126541` | This is such a fun and easy personal project imo - and very much wort.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7669851862627126541) | queued |
 | 56 | `7668773418602368270` | I’m low key tryna do this thought I’d share the sauce  #ai #vibecodin.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7668773418602368270) | queued |
 | 57 | `7668741954762591501` | True story. One of my favorite marketing stunts of all time. #ai #vib.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7668741954762591501) | queued |
-| 58 | `7668074720088182030` | What are y’all interesting in seeing next? #ai #buildwithai #vibecodin.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7668074720088182030) | queued |
+| 58 | `7668074720088182030` | What are y’all interesting in seeing next? #ai #buildwithai #vibecodin… | [link](https://www.tiktok.com/@angusthenontechnical/video/7668074720088182030) | queued |
 | 59 | `7668058167116401933` | The faceless YouTube courses are like this but way more simplified (e.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7668058167116401933) | queued |
 | 60 | `7668057137393814798` | If you want the prompts I used here, comment “pdf” and I’ll send them.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7668057137393814798) | queued |
 | 61 | `7668051247542422797` | Anybody else getting all these “build a faceless YouTube channel” cou.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7668051247542422797) | queued |
@@ -74,7 +74,7 @@ Extractor: local `tools/tiktok/tiktok-extractor` (yt-dlp + faster-whisper base).
 | 64 | `7667678640372550926` | True story #ad #ai #buildwithai #vibecoding #chatgpt_partner  @ChatGPT… | [link](https://www.tiktok.com/@angusthenontechnical/video/7667678640372550926) | queued |
 | 65 | `7667606393163238670` | Who do I automate next?  #ai #buildwithai #vibecoding  | [link](https://www.tiktok.com/@angusthenontechnical/video/7667606393163238670) | queued |
 | 66 | `7667597563813514509` | Who should I do next ✍️ #ai #buildwithai #vibecoding  | [link](https://www.tiktok.com/@angusthenontechnical/video/7667597563813514509) | queued |
-| 67 | `7667596736549965069` | Who should I vibe code next #ai #vibecoding #buildwithai  | [link](https://www.tiktok.com/@angusthenontechnical/video/7667596736549965069) | queued |
+| 67 | `7667596736549965069` | Who should I vibe code next #ai #vibecoding #buildwithai | [link](https://www.tiktok.com/@angusthenontechnical/video/7667596736549965069) | queued |
 | 68 | `7667302702229032206` | Who else has a vibe coded CRM?  #ai #buildwithai #vibecoding  | [link](https://www.tiktok.com/@angusthenontechnical/video/7667302702229032206) | queued |
 | 69 | `7667301108968213773` | Who else here has a vibe coded CRM?  #ai #buildwithai #vibecoding  | [link](https://www.tiktok.com/@angusthenontechnical/video/7667301108968213773) | queued |
 | 70 | `7667254400242453773` | No I don’t pay 600k for a CRM lol that comes from that article that b.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7667254400242453773) | queued |
@@ -83,16 +83,16 @@ Extractor: local `tools/tiktok/tiktok-extractor` (yt-dlp + faster-whisper base).
 | 73 | `7667209536733728013` | Who also hates these AI recruiter things #ai #buildwithai #vibecoding  | [link](https://www.tiktok.com/@angusthenontechnical/video/7667209536733728013) | queued |
 | 74 | `7666168999226428686` | Prob the reason you aren’t getting hired ngl  #ai #vibecoding #buildw.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7666168999226428686) | queued |
 | 75 | `7665805465179229453` | Been on that shit far before the FIFA guy #ai #vibecoding #buildwithai… | [link](https://www.tiktok.com/@angusthenontechnical/video/7665805465179229453) | queued |
-| 76 | `7665802410698231054` | Hotels are vibe codeable #ai #vibecoding #buildwithai  | [link](https://www.tiktok.com/@angusthenontechnical/video/7665802410698231054) | queued |
+| 76 | `7665802410698231054` | Hotels are vibe codeable #ai #vibecoding #buildwithai | [link](https://www.tiktok.com/@angusthenontechnical/video/7665802410698231054) | queued |
 | 77 | `7665802017197067534` | Been on that shit far before the FIFA guy #ai #vibecoding #buildwithai… | [link](https://www.tiktok.com/@angusthenontechnical/video/7665802017197067534) | queued |
 | 78 | `7665801572743499021` | Hotels are vibe codeable  #ai #vibecoding #buildwithai  | [link](https://www.tiktok.com/@angusthenontechnical/video/7665801572743499021) | queued |
 | 79 | `7665398053007789326` | Gonna hop right on this trend rn #ai #buildwithai #worththemoney #ait.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7665398053007789326) | queued |
 | 80 | `7665089464846388493` | Don’t scam people folks. I’d just do this for free until you have eno.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7665089464846388493) | queued |
-| 81 | `7665058670174129422` | Legit my favorite method #ai #buildwithai #vibecoding  | [link](https://www.tiktok.com/@angusthenontechnical/video/7665058670174129422) | queued |
+| 81 | `7665058670174129422` | Legit my favorite method #ai #buildwithai #vibecoding | [link](https://www.tiktok.com/@angusthenontechnical/video/7665058670174129422) | queued |
 | 82 | `7665058341361601805` | Who else keeps getting the same Jordan Belfort ads over and over? #ai.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7665058341361601805) | queued |
 | 83 | `7664728996487187725` | The problem with using AI for marketing research  #buildwithai #vibec.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7664728996487187725) | queued |
 | 84 | `7664613248624250126` | If you dm me the word “carvana” I’ll send you this full system #ai #b.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7664613248624250126) | queued |
-| 85 | `7664611788196990222` | Thoughts on longevity coaching? Scam or no?  #ai #vibecoding #buildwi.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7664611788196990222) | queued |
+| 85 | `7664611788196990222` | Thoughts on longevity coaching? Scam or no? #ai #vibecoding #buildwi.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7664611788196990222) | queued |
 | 86 | `7664192150573272333` | easiest software to replace ever #vibecoding #aitools #techtok #learn.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7664192150573272333) | queued |
 | 87 | `7663449969768107278` | the vacation rental space is dope. worked for a management company pa.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7663449969768107278) | queued |
 | 88 | `7662707887512292621` | posted this one a few months ago but the "stages of AI grief" still f.… | [link](https://www.tiktok.com/@angusthenontechnical/video/7662707887512292621) | queued |
@@ -162,7 +162,7 @@ Extractor: local `tools/tiktok/tiktok-extractor` (yt-dlp + faster-whisper base).
 ## Counts
 
 - listed: 150
-- ok: 31
+- ok: 30
 - skip: 5
 - fail: 0
-- queued: 114
+- queued: 115
