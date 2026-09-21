@@ -1,13 +1,13 @@
-# POC-001: Reflected
+# POC-001: Reflector
 
-**Product name:** Reflected (folder slug remains `poc-001-reflector` until rename)
+**Product name:** Reflector (new type of AI consultancy; folder slug stays `poc-001-reflector`)
 **Status:** 🟡 In Progress
 **Started:** 2026-09-21
 **Last Updated:** 2026-09-21
 
 ## Business Idea
 
-Reflected — discovery as a sales artifact; paid automations for operationally-intensive / service-delivery businesses (logistics, facilities, field services, staffing, property mgmt, healthcare delivery, moving). Tech is a cost center. Themes: Risk & Compliance, Efficiency, Cost. ICP ~300–10k employees.
+Reflector — a new type of AI consultancy. Discovery as a sales artifact; paid automations for operationally-intensive / service-delivery businesses (logistics, facilities, field services, staffing, property mgmt, healthcare delivery, moving). Tech is a cost center. Themes: Risk & Compliance, Efficiency, Cost. ICP ~300–10k employees.
 
 ## ICP (from CEO lock)
 
@@ -18,11 +18,11 @@ Reflected — discovery as a sales artifact; paid automations for operationally-
 
 ## Goals
 
-- [ ] Land pitch deck under `docs/slides/`
+- [x] Land pitch deck under `docs/slides/` (Drive: Reflector_Pitch_Deck.pptx)
 - [ ] Ingest session notes / chat under `docs/context/`
 - [ ] Scaffold app with Watermelon UI
 - [ ] Before/after diagrams via archify
-- [ ] Optional rename folder → `poc-001-reflected` once Mithun confirms
+- [ ] Keep folder slug `poc-001-reflector` (no rename)
 
 ## Tech Stack
 
@@ -32,8 +32,6 @@ Reflected — discovery as a sales artifact; paid automations for operationally-
 - **Other:** TBD from deck
 
 ## Context workflow
-
-Anything Mithun drops outside chat goes here:
 
 | Kind | Path |
 |------|------|
@@ -46,13 +44,13 @@ Anything Mithun drops outside chat goes here:
 ### What's Built
 - Folder scaffold + context layout
 - Design-system notes (`docs/design-system.md`) — Watermelon foundation for Frontend
+- TikTok context from @angusthenontechnical under `docs/context/angusthenontechnical/`
 
 ### What's Next
-- [ ] Ingest deck + chat context (`docs/slides/`, `docs/context/`)
-- [ ] Screen inventory + brand overlay (Design, after deck)
+- [ ] Design: archify before/after (deck live on Drive)
+- [ ] Screen inventory + brand overlay (Design)
 - [ ] Scaffold app with Watermelon UI (Frontend / Code Lead)
-- [ ] Archify before/after diagrams (Design, after deck)
 
 ## Notes
 
-Overall repo for this POC: **Reflected** under `POCs/poc-001-reflector/`.
+Product display name: **Reflector**. Folder: `POCs/poc-001-reflector/`.

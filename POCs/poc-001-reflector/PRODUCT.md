@@ -1,1 +1,1 @@
-Product display name: Reflected. Folder: poc-001-reflector (stable id until rename).
+Product display name: Reflector. Folder: poc-001-reflector (stable id).
