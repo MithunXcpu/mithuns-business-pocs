@@ -26,10 +26,41 @@ Pulled: latest **5** public VOD clips (deduped by title from flat playlist).
 
 ## Layout
 
-See per-video folders for summary.md + transcript.txt. Raw media stays local under raw/ (not in this commit).
+```
+angusthenontechnical/
+├── INDEX.md
+├── 7686905063905758477/
+│   ├── summary.md      # AI-ready consolidated report
+│   ├── transcript.txt
+│   ├── transcript.srt
+│   └── metadata.json
+├── 7686607531833134349/
+│   ├── summary.md      # AI-ready consolidated report
+│   ├── transcript.txt
+│   ├── transcript.srt
+│   └── metadata.json
+├── 7686595189573553421/
+│   ├── summary.md      # AI-ready consolidated report
+│   ├── transcript.txt
+│   ├── transcript.srt
+│   └── metadata.json
+├── 7686594812442594573/
+│   ├── summary.md      # AI-ready consolidated report
+│   ├── transcript.txt
+│   ├── transcript.srt
+│   └── metadata.json
+├── 7686237088764792078/
+│   ├── summary.md      # AI-ready consolidated report
+│   ├── transcript.txt
+│   ├── transcript.srt
+│   └── metadata.json
+└── raw/<id>/           # also includes video.mp4 + audio.wav
+```
 
 ## Notes
 
-- Profile listing via yt-dlp --flat-playlist succeeded.
-- TikTok near-duplicate entries deduped by title.
-- Frames/OCR not run — transcript + metadata only.
+- Profile listing via `yt-dlp --flat-playlist` succeeded (impersonation warning only; no bot wall).
+- TikTok returned near-duplicate entries per post; kept unique titles (first ID of each pair).
+- Frames/OCR not run (`--frames` skipped) — transcript + metadata only.
+- Large binaries (`video.mp4`, `audio.wav`) live only under `raw/` to keep context browsing light.
+
