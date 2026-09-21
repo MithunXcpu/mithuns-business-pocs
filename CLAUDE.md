@@ -17,3 +17,6 @@ You are working in **MithunXcpu/mithuns-business-pocs**.
 
 ## Models
 - Prefer free/local Ollama models already configured for Claude Code (default `qwen2.5-coder:3b`).
+
+## Zero cost
+See `ZERO_COST.md`. Always launch with `poc-claude` (Ollama). No paid Anthropic/OpenRouter for POC builds.
